@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run Manim",
+      "type": "shell",
+      "command": "${workspaceFolder}/.venv/Scripts/manim.exe",
+      "args": ["-pqm", "--show_in_file_browser", "${file}"],
+      "problemMatcher": [],
+      "group": "build"
+    }
+  ]
+}

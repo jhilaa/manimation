@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Utilisateurs/julie/Dropbox/Ada Tech School/06 Projets/13 Manimation/media/videos/02_carre_vers_cercle/1080p60/partial_movie_files/CarreVersCercle/3977891868_2350346028_223132457.mp4'
+file 'file:D:/Utilisateurs/julie/Dropbox/Ada Tech School/06 Projets/13 Manimation/media/videos/02_carre_vers_cercle/1080p60/partial_movie_files/CarreVersCercle/2852726489_1839128356_3336361016.mp4'
+file 'file:D:/Utilisateurs/julie/Dropbox/Ada Tech School/06 Projets/13 Manimation/media/videos/02_carre_vers_cercle/1080p60/partial_movie_files/CarreVersCercle/2852726489_118967003_27335724.mp4'
+file 'file:D:/Utilisateurs/julie/Dropbox/Ada Tech School/06 Projets/13 Manimation/media/videos/02_carre_vers_cercle/1080p60/partial_movie_files/CarreVersCercle/2852726489_1839128356_250703457.mp4'
+file 'file:D:/Utilisateurs/julie/Dropbox/Ada Tech School/06 Projets/13 Manimation/media/videos/02_carre_vers_cercle/1080p60/partial_movie_files/CarreVersCercle/2852726489_3417516481_3184462547.mp4'
