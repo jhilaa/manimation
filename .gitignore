@@ -1,0 +1,37 @@
+# === Fichiers Python ===
+*.pyc
+__pycache__/
+
+# === Dossier d’environnement virtuel (si dans le projet) ===
+.venv/
+env/
+venv/
+
+# === Sorties Manim ===
+media/
+videos/
+*.mp4
+*.mov
+*.gif
+*.png
+*.svg
+*.log
+*.tex
+*.dvi
+*.aux
+*.out
+
+# === Cache Manim ===
+.manim/
+.cache/
+
+# === Jupyter Notebooks (si tu utilises) ===
+.ipynb_checkpoints/
+
+# === VS Code ===
+.vscode/
+*.code-workspace
+
+# === OS / Éditeur ===
+.DS_Store
+Thumbs.db
